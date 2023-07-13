@@ -1,16 +1,12 @@
-# 🎨DALL-E 
+<div align="center">
 
-
-[![GitHub stars](https://img.shields.io/github/stars/ElonMusk2002/DALL-E?style=for-the-badge&logo=github&color=blue)](https://github.com/ElonMusk2002/DALL-E/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/ElonMusk2002/DALL-E?style=for-the-badge&logo=github&color=blue)](https://github.com/ElonMusk2002/DALL-E/network/members)
-[![GitHub watchers](https://img.shields.io/github/watchers/ElonMusk2002/DALL-E?style=for-the-badge&logo=github&color=blue)](https://github.com/ElonMusk2002/DALL-E/watchers)
-
-
-This will style the badges with a yellow background and white logo color.
-
-🎨DALL-E is a Python Django repository that uses the DeepAI API key to generate images.
+# 🎨DALL-E
 
 ![DALL-E](dall-e.jpg) 
+
+[![GitHub stars](https://img.shields.io/github/stars/ElonMusk2002/DALL-E?style=for-the-badge&logo=github&color=yellow)](https://github.com/ElonMusk2002/DALL-E/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/ElonMusk2002/DALL-E?style=for-the-badge&logo=github&color=yellow)](https://github.com/ElonMusk2002/DALL-E/network/members)
+[![GitHub watchers](https://img.shields.io/github/watchers/ElonMusk2002/DALL-E?style=for-the-badge&logo=github&color=yellow)](https://github.com/ElonMusk2002/DALL-E/watchers)
 
 ## 📝Introduction
 
@@ -46,8 +42,6 @@ This will start the server and you can now generate images using the DALL-E API.
 
 ## 📊Statistics
 
-Here are some statistics for this repository:
-
 ![GitHub repo size](https://img.shields.io/github/repo-size/ElonMusk2002/DALL-E?style=for-the-badge&color=blue&logo=github)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ElonMusk2002/DALL-E?style=for-the-badge&color=blue&logo=github)
 ![GitHub license](https://img.shields.io/github/license/ElonMusk2002/DALL-E?style=for-the-badge&color=blue&logo=github)
@@ -57,4 +51,6 @@ Here are some statistics for this repository:
 
 ## 🙌Contributing
 
-Contributions are always welcome! 
+Contributions are always welcome!
+
+</div>
